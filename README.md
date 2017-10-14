@@ -18,4 +18,4 @@ Copy the [PHPUnit.xml](https://github.com/Diego-Brocanelli/my-phpunit-xml-file/b
     - For code coverage in HTML.
     
 ## License
-    - [BSD-3-Clause](https://github.com/Diego-Brocanelli/my-phpunit-xml-file/blob/master/LICENSE)
+- [BSD-3-Clause](https://github.com/Diego-Brocanelli/my-phpunit-xml-file/blob/master/LICENSE)
