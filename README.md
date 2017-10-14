@@ -4,7 +4,7 @@ My base file for run tests with PHPUnit
 
 ## Use
 
-Copy the file for your application root directory.
+Copy the [PHPUnit.xml](https://github.com/Diego-Brocanelli/my-phpunit-xml-file/blob/master/phpunit.xml) file for root directory of your application.
 
 ## Expecification
 
